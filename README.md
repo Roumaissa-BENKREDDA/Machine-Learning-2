@@ -169,3 +169,15 @@ Developed a code utilizing the DeepFace library to automatically filter out inco
    ```bash
    git clone https://github.com/yourusername/emotion-recognition.git](https://github.com/Roumaissa-BENKREDDA/Machine-Learning-2.git
    cd emotion-recognition
+
+### Prepare the Dataset:
+Place your dataset in the Dataset/ directory as described in the project structure.
+
+### Run the Model:
+Train the model using the provided Jupyter notebook or Python scripts.
+
+### View the Results:
+After training, you can view the results, such as accuracy and loss, by using the plots generated in the notebook or the Python script. Additionally, you can analyze the confusion matrix to understand the model's performance across different emotion classes.
+
+### Use the Pre-trained Model:
+If you wish to use the pre-trained model, you can load the saved model file (model.h5) and run predictions on new images.
