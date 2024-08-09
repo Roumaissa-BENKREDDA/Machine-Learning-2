@@ -186,10 +186,12 @@ If you wish to use the pre-trained model, you can load the saved model file (mod
 
 ### References
 Keras Documentation: Keras.io
+
 DeepFace Library: DeepFace Documentation
 
 ---
 
 ### Appendices
 Presentation V10.pptx: Detailed project presentation
+
 Notebook or Scripts: Jupyter notebooks and scripts used for training and evaluation
