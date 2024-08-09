@@ -167,5 +167,5 @@ Developed a code utilizing the DeepFace library to automatically filter out inco
 ### Setup:
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/emotion-recognition.git
+   git clone https://github.com/yourusername/emotion-recognition.git](https://github.com/Roumaissa-BENKREDDA/Machine-Learning-2.git
    cd emotion-recognition
