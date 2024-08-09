@@ -1,7 +1,7 @@
 # Machine-Learning-2
 <div align="center">
   <a href="https://unige.it/en/">
-    <img src="./img/genoa_logo.png" width="20%" height="20%" title="University of Genoa" alt="University of Genoa">
+    <img src="./logounige.jpg" width="20%" height="20%" title="University of Genoa" alt="University of Genoa">
   </a>
 </div>
 
@@ -13,8 +13,8 @@
 >
 > **Course:** Machine Learning and Data Analysis  
 > **Department:** DIBRIS - University of Genova  
-> **Professor:** Maura Casadio  
-> **Submission Date:** [Insert Date]
+> **Professor:** Oneto Luca
+> **Submission Date:** June 24,2024
 
 ## Table of Contents
 
