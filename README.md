@@ -181,3 +181,15 @@ After training, you can view the results, such as accuracy and loss, by using th
 
 ### Use the Pre-trained Model:
 If you wish to use the pre-trained model, you can load the saved model file (model.h5) and run predictions on new images.
+
+---
+
+### References
+Keras Documentation: Keras.io
+DeepFace Library: DeepFace Documentation
+
+---
+
+### Appendices
+Presentation V10.pptx: Detailed project presentation
+Notebook or Scripts: Jupyter notebooks and scripts used for training and evaluation
